@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anuj2k21/loginform.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Anuj2k21/loginform.git/static/js/main.c2cf51ef.js",
+    "index.html": "/Anuj2k21/loginform.git/index.html",
+    "main.e6c13ad2.css.map": "/Anuj2k21/loginform.git/static/css/main.e6c13ad2.css.map",
+    "main.c2cf51ef.js.map": "/Anuj2k21/loginform.git/static/js/main.c2cf51ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c2cf51ef.js"
+  ]
+}
